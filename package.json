@@ -1,0 +1,7 @@
+{
+  "name": "abk-6225-estimate-project3-c4d4535e",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
